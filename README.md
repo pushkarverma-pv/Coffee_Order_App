@@ -1,4 +1,4 @@
-# Coffee Order CLI App ☕
+# Coffee Order CLI App 
 
 A simple Python command-line application to order coffee, view cart, and checkout.
 
